@@ -1,0 +1,33 @@
+/* 
+  Localizable.strings
+  WebSocket
+
+  Created by Salva Moreno on 19/3/24.
+  
+*/
+
+// Splash
+"user_not_authenticated" = "Usuario no autenticado";
+"user_not_authenticated_message" = "Email o contraseña incorrectos. Inténtelo con otras credenciales.";
+
+// Sign In
+"sign_in" = "Inicia sesión";
+"sign_in_acces_account" = "Accede a tu cuenta";
+"sign_in_email_placeholder" = "Introduce tu correo electrónico";
+"sign_in_password_placeholder" = "Introduce tu contraseña";
+"sign_in_no_account" = "¿No tienes cuenta?";
+"sign_in_sign_up" = "Regístrate";
+
+// Sign Up
+"sign_up" = "Regístrate";
+"sign_up_enter_data" = "Introduce tus datos para registrar una nueva cuenta";
+"sign_up_name_placeholder" = "Introduce tu nombre";
+"sign_up_email_placeholder" = "Introduce tu correo electrónico";
+"sign_up_password_placeholder" = "Introduce tu contraseña";
+"sign_up_already_account" = "¿Ya tienes una cuenta?";
+"sign_up_sign_in" = "Inicia sesión";
+
+// Tabs
+"tab_wall" = "Comunidad";
+"tab_search" = "Buscador";
+"tab_profile" = "Perfil";

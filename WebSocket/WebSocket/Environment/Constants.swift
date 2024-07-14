@@ -24,5 +24,5 @@ struct Constants {
     static let get = "GET"
     static let post = "POST"
     static let api = "/api/v1"
-    static let apikey = "622155e1-9fc4-4b06-82cf-6a2d03f422c4"
+    static let apikey = ""
 }
